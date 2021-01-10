@@ -1,0 +1,12 @@
+a {
+    font-weight: bold;
+    font-family: "Helvetica, Arial, sans-serif";
+}
+.reveal {
+    overflow:hidden;
+    /* height:10px;*/
+}
+.reveal img {
+    border: 1px solid grey;
+}
+
