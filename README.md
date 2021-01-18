@@ -1,3 +1,4 @@
+<a name="about"></a>
 # Bird of the Day
 
 At home, we have one of those tear-off "bird a day" calendars. 
