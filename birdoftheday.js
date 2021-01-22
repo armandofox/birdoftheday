@@ -5,7 +5,7 @@ $(function() {
 });
   
 Botd = {
-  step: 20
+  step: 50
   ,current: 10
   ,flickrKey: '7dc972d2d75dac855123f14a7ee987ba'
   ,flickrSecret: '4e32e1f9bac04455'
